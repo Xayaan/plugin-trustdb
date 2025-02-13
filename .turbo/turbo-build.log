@@ -1,17 +1,18 @@
 
+
 > @elizaos/plugin-trustdb@0.1.9 build /Users/gdesign/developer-projects/laborales/upstreet/eliza-last/eliza/packages/plugin-trustdb
 > tsup --format esm --dts
 
-CLI Building entry: src/index.ts
-CLI Using tsconfig: tsconfig.json
-CLI tsup v8.3.5
-CLI Using tsup config: /Users/gdesign/developer-projects/laborales/upstreet/eliza-last/eliza/packages/plugin-trustdb/tsup.config.ts
-CLI Target: esnext
-CLI Cleaning output folder
-ESM Build start
-ESM dist/index.js     37.84 KB
-ESM dist/index.js.map 67.68 KB
-ESM ⚡️ Build success in 133ms
+[34mCLI[39m Building entry: src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.5
+[34mCLI[39m Using tsup config: /Users/gdesign/developer-projects/laborales/upstreet/eliza-last/eliza/packages/plugin-trustdb/tsup.config.ts
+[34mCLI[39m Target: node16
+[34mCLI[39m Cleaning output folder
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js     [22m[32m37.84 KB[39m
+[32mESM[39m [1mdist/index.js.map [22m[32m67.68 KB[39m
+[32mESM[39m ⚡️ Build success in 76ms
 DTS Build start
-DTS ⚡️ Build success in 2786ms
+DTS ⚡️ Build success in 1608ms
 DTS dist/index.d.ts 10.34 KB
